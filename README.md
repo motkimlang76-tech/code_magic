@@ -2,7 +2,6 @@
 
 Real-time hand tracking with programmer/hacker visual effects. Pure black terminal aesthetic, Matrix green, neon glow, CRT scanlines.
 
-## Screenshot
 
 ![Code Magic terminal summon hand tracking effect](assets/screenshots/terminal-summon.png)
 
